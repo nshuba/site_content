@@ -32,7 +32,7 @@ selected = true
 url_pdf = "https://www.petsymposium.org/2018/files/papers/issue4/popets-2018-0035.pdf"
 url_video = "https://www.youtube.com/watch?v=aHsWW0Dk44g&list=PLWSQygNuIsPd6YJmGV9kn1mP2A6-IBCoU&index=2"
 #url_preprint = ""
-url_code = "https://github.com/UCI-Networking-Group/nomoads"
+url_code = "https://github.com/nshuba/nomoads"
 url_dataset = "http://athinagroup.eng.uci.edu/projects/nomoads/data/"
 url_project = "http://athinagroup.eng.uci.edu/projects/nomoads/"
 #url_slides = "#"

@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://newport.eecs.uci.edu/~ashuba/"
+baseurl = "https://nshuba.github.io/"
 
 #publishDir = "/home/Nastia/Documents/Research/site_content/public/"
 publishDir = "public/"
@@ -58,11 +58,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Anastasia Shuba"
-  role = "Sr. Software Engineer"
+  role = "R&D Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Symantec Corporation", url = "https://www.symantec.com/" } ]
+  organizations = [ { name = "Broadcom Inc.", url = "https://www.broadcom.com/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
