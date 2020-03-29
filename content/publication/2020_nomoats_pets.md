@@ -1,6 +1,6 @@
 +++
 title = "NoMoATS: Towards Automatic Detection of Mobile Tracking"
-date = 2020-07-19T00:00:00
+date = 2020-01-19T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Anastasia Shuba", "Athina Markopoulou"]
@@ -28,7 +28,7 @@ selected = true
 #projects = ["antmonitor.md"]
 
 # Links (optional).
-#url_pdf = "https://www.petsymposium.org/2018/files/papers/issue4/popets-2018-0035.pdf"
+url_pdf = "https://petsymposium.org/2020/files/papers/issue2/popets-2020-0017.pdf"
 #url_video = "https://www.youtube.com/watch?v=aHsWW0Dk44g&list=PLWSQygNuIsPd6YJmGV9kn1mP2A6-IBCoU&index=2"
 #url_preprint = ""
 url_code = "https://github.com/nshuba/NoMoATS"
