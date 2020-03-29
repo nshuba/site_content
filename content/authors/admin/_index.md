@@ -18,7 +18,7 @@ organizations:
   url: "https://www.broadcom.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a recent Ph.D graduate from the EECS department at UC Irvine. Currently I work at Broadcom Inc.
 
 interests:
 - Mobile Security and Privacy
