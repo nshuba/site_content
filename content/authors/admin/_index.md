@@ -18,7 +18,7 @@ organizations:
   url: "https://www.broadcom.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a recent Ph.D graduate from the EECS department at UC Irvine. Currently I work at Broadcom Inc.
+bio: I am an R&D Engineer at [Broadcom](https://www.broadcom.com/) by day and an Independent Researcher by night.
 
 interests:
 - Mobile Security and Privacy
@@ -67,8 +67,9 @@ email: ""
 #- Visitors
 ---
 
-I am a recent Ph.D graduate from the EECS department at UC Irvine, where I worked in the [networking lab](https://athinagroup.eng.uci.edu/) under the supervision of [Prof. Athina Markopoulou.](https://athinagroup.eng.uci.edu/athina/)
-I was the lead developer in the [AntMonitor](http://antmonitor.calit2.uci.edu) and [NoMoAds](http://athinagroup.eng.uci.edu/projects/nomoads/) projects, and I am currently
-an R&D Engineer at [Broadcom](https://www.broadcom.com/). 
+I am an R&D Engineer at [Broadcom](https://www.broadcom.com/) by day and an Independent Researcher by night.
+Currently, I am collaborating with researchers at the University of Oxford and the University of California, Irvine to analyze privacy aspects of various mobile and IoT devices.
+During my Ph.D, I was the lead developer in the [AntMonitor](http://antmonitor.calit2.uci.edu) and [NoMoAds](http://athinagroup.eng.uci.edu/projects/nomoads/) projects.
 
-Download {{% staticref "files/cv.pdf" "newtab" %}}my CV (academia) {{% /staticref %}} or {{% staticref "files/resume.pdf" "newtab" %}}my resume (industry) {{% /staticref %}}
+
+{{% staticref "files/cv.pdf" "newtab" %}}Download my CV {{% /staticref %}}
