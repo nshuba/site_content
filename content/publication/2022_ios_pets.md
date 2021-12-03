@@ -1,16 +1,16 @@
 +++
-title = "OVRSeen: Auditing Network Traffic and Privacy Policies in Oculus VR"
+title = "Are iPhones Really Better for Privacy? A Comparative Study of iOS and Android App"
 date = 2022-08-19T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Rahmadi Trimananda", "Hieu Le", "Hao Cui", "Janice Tran Ho", "Anastasia Shuba", "Athina Markopoulou"]
+authors = ["Konrad Kollnig", "Anastasia Shuba", "Reuben Binns", "Max Van Kleek", "Nigel Shadbolt"]
 
 # Publication type.
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 31st USENIX Conference on Security Symposium (USENIX Security)"
-publication_short = "In *USENIX Security*"
+publication = "In Proceedings of the Privacy Enhancing Technologies Symposium (PoPETs)"
+publication_short = "In *PoPETs*"
 
 # Abstract and optional shortened version.
 #abstract = ""
@@ -28,12 +28,12 @@ selected = true
 #projects = ["antmonitor.md"]
 
 # Links (optional).
-#url_pdf = ""
-#url_video = "https://www.youtube.com/watch?v=aHsWW0Dk44g&list=PLWSQygNuIsPd6YJmGV9kn1mP2A6-IBCoU&index=2"
-url_preprint = "https://arxiv.org/pdf/2106.05407.pdf"
-url_code = "https://github.com/UCI-Networking-Group/OVRseen"
-url_dataset = "https://athinagroup.eng.uci.edu/projects/ovrseen/ovrseen-datasets/"
-url_project = "https://athinagroup.eng.uci.edu/projects/ovrseen/"
+#url_pdf = "https://arxiv.org/pdf/2106.05407.pdf"
+#url_video = ""
+url_preprint = "https://arxiv.org/pdf/2109.13722.pdf"
+url_code = "https://www.platformcontrol.org/"
+url_dataset = "https://www.platformcontrol.org/"
+url_project = "https://www.platformcontrol.org/"
 #url_slides = "#"
 #url_poster = "#"
 #url_source = "#"
