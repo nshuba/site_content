@@ -1,16 +1,16 @@
 +++
-title = "Are iPhones Really Better for Privacy? A Comparative Study of iOS and Android App"
-date = 2022-07-19T00:00:00
+title = "Goodbye Tracking? Impact of iOS App Tracking Transparency and Privacy Labels"
+date = 2022-06-19T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Konrad Kollnig", "Anastasia Shuba", "Reuben Binns", "Max Van Kleek", "Nigel Shadbolt"]
+authors = ["Konrad Kollnig", "Anastasia Shuba", "Max Van Kleek", "Reuben Binns", "Nigel Shadbolt"]
 
 # Publication type.
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the Privacy Enhancing Technologies Symposium (PoPETs)"
-publication_short = "In *PoPETs*"
+publication = "In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)"
+publication_short = "In *ACM FAccT*"
 
 # Abstract and optional shortened version.
 #abstract = ""
@@ -30,10 +30,10 @@ selected = true
 # Links (optional).
 #url_pdf = "https://arxiv.org/pdf/2106.05407.pdf"
 #url_video = ""
-url_preprint = "https://arxiv.org/pdf/2109.13722.pdf"
-url_code = "https://www.platformcontrol.org/"
-url_dataset = "https://www.platformcontrol.org/"
-url_project = "https://www.platformcontrol.org/"
+url_preprint = "https://arxiv.org/pdf/2204.03556.pdf"
+#url_code = "https://www.platformcontrol.org/"
+#url_dataset = "https://www.platformcontrol.org/"
+#url_project = "https://www.platformcontrol.org/"
 #url_slides = "#"
 #url_poster = "#"
 #url_source = "#"
