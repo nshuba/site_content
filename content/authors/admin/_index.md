@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: R&D Engineer
+role: Privacy Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Broadcom Inc.
-  url: "https://www.broadcom.com/"
+- name: DuckDuckGo
+  url: "https://duckduckgo.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an R&D Engineer at [Broadcom](https://www.broadcom.com/) by day and an Independent Researcher by night.
+bio: I am an R&D Engineer at [DuckDuckGo](https://duckduckgo.com/) by day and an Independent Researcher by night.
 
 interests:
 - Mobile Security and Privacy
@@ -70,9 +70,9 @@ email: ""
 #- Visitors
 ---
 
-I am an R&D Engineer at [Broadcom](https://www.broadcom.com/) by day and an Independent Researcher by night.
+I am a Senior Privacy Engineer at [DuckDuckGo](https://duckduckgo.com/) by day and an Independent Researcher by night.
 Currently, I am collaborating with researchers at the University of Oxford and the University of California, Irvine to analyze privacy aspects of various mobile and IoT devices.
-During my Ph.D, I was the lead developer in the [AntMonitor](http://antmonitor.calit2.uci.edu) and [NoMoAds](http://athinagroup.eng.uci.edu/projects/nomoads/) projects.
+During my Ph.D, I was the lead developer in the [AntMonitor](https://athinagroup.eng.uci.edu/projects/antmonitor/) and [NoMoAds](http://athinagroup.eng.uci.edu/projects/nomoads/) projects.
 
 
 {{% staticref "files/cv.pdf" "newtab" %}}Download my CV {{% /staticref %}}
